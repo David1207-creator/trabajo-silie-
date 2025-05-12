@@ -1,11 +1,4 @@
-<?php
-    $year = date('Y');
-    $menu = [
-        "Misión" => "autos/mision.php",
-        "Visión" => "autos/vision.php",
-        "Valores" => "autos/valores.php"
-    ];
-?>
+
 
 <!DOCTYPE html>
 <html lang="es">
@@ -67,3 +60,11 @@
     </footer>
 </body>
 </html>
+<?php
+    $year = date('Y');
+    $menu = [
+        "Misión" => "autos/mision.php",
+        "Visión" => "autos/vision.php",
+        "Valores" => "autos/valores.php"
+    ];
+?>
